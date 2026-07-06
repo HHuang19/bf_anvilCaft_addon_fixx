@@ -1,0 +1,7 @@
+{
+	"variants": {
+		"": {
+			"model": "anvilcaftaddon:block/power_block"
+		}
+	}
+}
